@@ -1,10 +1,8 @@
-# python-api-challenge
+# Python API Homework - What's the Weather Like?
 
-<h1>Python API: What's the Weather Like?</h1>
+## Background
 
-<h2>Background<h2>
-
-This project analyzes how weather changes when approaching the equator. Inside the folder **WeatherPy**, 2 Jupyter notebooks called 'WeatherPy.ipynb' and 'VacationPy.ipynb' contain the scripts I used for analysis.
+This project analyzes how weather changes when approaching the equator. 2 Jupyter notebooks called 'WeatherPy.ipynb' and 'VacationPy.ipynb' contain the scripts I used for analysis.
  
 A Python script was used to visualize weather of 500+ cities across the world of varying distance from the equator using the OpenWeatherMap API. The following scatterplots were used for analysis:
  
